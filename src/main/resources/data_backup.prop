@@ -1,0 +1,1 @@
+INSERT INTO users(userId,id,title,body) values (1,1,'titlestr','bodystr')
